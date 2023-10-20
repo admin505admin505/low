@@ -1,0 +1,6 @@
+body{
+    background-image: url("low2.gif");
+    background-image:no-repeat;
+    background-image:fill;
+    background-size: 90% 90%;
+}
